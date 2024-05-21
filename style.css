@@ -1,0 +1,27 @@
+#first{
+    color:red;
+    font-size:4vw
+}
+
+h1{
+
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+input{
+    padding: 5px;
+}
+/*selection id */
+
+
+#xd{
+    
+    text-align: center;
+}
+
+/*selecting class */
+.simple{
+    border: 2px solid ;
+}
