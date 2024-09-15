@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+    border: 2px solid black;
+}
+p{
+
+}
+h1{
+    color: yellow;
+
+}
+h2{
+    color:red;
+}
+#second{
+    color: blue;
+}
+#head1{
+    color: blueviolet;
+
+}
+.class_a{
+    color: brown;
+
+}
+h1,h2,p{
+    color:black;
+}
