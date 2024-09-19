@@ -135,6 +135,9 @@ document.getElementById("tittle_d").innerHTML = "<i>Hi this  Italic</i>";
 c1 = document.getElementById("tittle_d");
 c1.textContent= "Hi I am Back Again";
 
+//basics document model OBJECT
+
+
 
 
 
