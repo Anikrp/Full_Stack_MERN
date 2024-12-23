@@ -1,0 +1,64 @@
+/* Selector {
+    Property: Value:
+} */
+
+/* to select the all the thing we use star * */
+
+
+*{
+    text-align: left;
+    font-family: "Playwrite ES Deco Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block;
+    padding: ;
+}
+
+span{
+    font-size: 2em;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    border: 5px solid #187171 ;
+    cursor: pointer;
+}    
+.first{
+    color:#187171
+
+}
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1734375070572-f559f1cde66f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+
+}
+li{
+    display: inline-block;
+}
+a{
+    color: #187171;
+}
+/* selecting the class  */
+.webtext{
+    color: white;
+    text-align: center;
+    border: 5px solid #187171 ;
+    cursor: pointer;
+}
+.webtext2{
+    color:beige;
+    text-align: center;
+    border: 5px solid whitesmoke ;
+    cursor: pointer;
+}
+.div1{
+    color: rgb(143, 26, 26);
+   
+}
+
+/* selecting the  id  */
+#diveid1{
+    color: rgb(234, 226, 226);
+}
